@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaufalAndriantoNugraha
-- 👀 I’m interested in programming
+- 👀 I’m interested in game deveopment and programming
 - 🌱 I’m currently learning C# and Godot Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andriantonugrahanaufal@gmail.com
