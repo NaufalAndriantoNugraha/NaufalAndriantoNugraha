@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaufalAndriantoNugraha
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, and C++.
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C# and Godot Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
