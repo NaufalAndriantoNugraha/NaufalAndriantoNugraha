@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- some stuff https://replit.com/@NaufalAndrianto
 
 <!---
 NaufalAndriantoNugraha/NaufalAndriantoNugraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
