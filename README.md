@@ -23,4 +23,4 @@ Hi, I'm Naufal Andrianto Nugraha. Welcome to my GitHub profile.
 
 ### Other tools and technologies
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,markdown,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,markdown,vscode,neovim,blender&perline=4)](https://skillicons.dev)
