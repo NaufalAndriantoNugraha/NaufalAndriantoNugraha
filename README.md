@@ -11,7 +11,7 @@ Hi, I'm Naufal Andrianto Nugraha. Welcome to my GitHub profile.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,cs,go)](https://skillicons.dev)
 
 ### Front-end Technologies
 
