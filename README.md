@@ -7,7 +7,7 @@ Hi, I'm Naufal Andrianto Nugraha. Welcome to my GitHub profile.
 - Email: <andriantonugrahanaufal@gmail.com>
 - Codewars: <https://www.codewars.com/users/SabiTaH>
 
-## Skils
+## Skills
 
 ### Programming Languages
 
