@@ -4,7 +4,6 @@ Hi, I'm Naufal Andrianto Nugraha. Welcome to my GitHub profile.
 
 ## Connect with me
 
-- Email: <andriantonugrahanaufal@gmail.com>
 - Codewars: <https://www.codewars.com/users/SabiTaH>
 
 ## Skills
